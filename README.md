@@ -104,7 +104,8 @@ int main() {
 ```
 
 # OUTPUT
-![Screenshot 2025-04-08 234239](https://github.com/user-attachments/assets/6cdb14ef-c8ea-455e-8ac2-2db6f5e85c7d)
+![image](https://github.com/user-attachments/assets/38cd629f-5cf0-4d20-85a2-9e02384a6253)
+
 
 
 # RESULT
